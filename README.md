@@ -2,7 +2,7 @@
 
 Code for the Project 2 paper (Natural Language Processing, *Language in Culture and Responsible NLP*), University of the Witwatersrand.
 
-**Authors:** Lulama Hlungwani (3127972), Naledi Magomotsi (2684883), Ntokozo Skosana (2440810)
+**Authors:** Lulama Hlungwani, Naledi Magomotsi, Ntokozo Skosana 
 
 ---
 
