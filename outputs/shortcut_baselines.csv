@@ -1,0 +1,10 @@
+model,group,macro_f1
+Majority class,Shortcut baseline,0.36363636363636365
+Page length only (tree),Shortcut baseline,0.7878787878787878
+Length + English rate (tree),Shortcut baseline,0.8776872206605052
+Word TF-IDF + LR,TF-IDF classifier,1.0
+Character TF-IDF + LR,TF-IDF classifier,1.0
+"Word, identity-masked",Post-hoc robustness,1.0
+"Character, identity-masked",Post-hoc robustness,1.0
+"Word, non-front pages",Post-hoc robustness,1.0
+"Character, non-front pages",Post-hoc robustness,1.0

@@ -1,0 +1,5 @@
+n_topics,reconstruction_error,iterations,converged
+4,28.19479074689355,36,True
+6,27.959125448470246,29,True
+8,27.772452134651846,70,True
+10,27.600402975925604,61,True

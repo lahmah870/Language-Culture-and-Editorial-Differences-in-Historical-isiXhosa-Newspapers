@@ -1,0 +1,3 @@
+model,n_pages,accuracy,balanced_accuracy,macro_f1,errors
+Word TF-IDF + LR,180,1.0,1.0,1.0,0
+Character TF-IDF + LR,180,1.0,1.0,1.0,0

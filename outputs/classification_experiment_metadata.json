@@ -1,0 +1,37 @@
+{
+  "research_title": "Language, Culture and Editorial Differences in Historical isiXhosa Newspapers",
+  "random_state": 42,
+  "overlap_years": [
+    1884,
+    1885,
+    1887,
+    1888
+  ],
+  "classification_unit": "newspaper page",
+  "split_unit": "newspaper issue",
+  "primary_selection_metric": "validation macro-F1",
+  "test_pages": 224,
+  "test_issues": 44,
+  "best_word_parameters": {
+    "tfidf__ngram_range": [
+      1,
+      1
+    ],
+    "tfidf__min_df": 2,
+    "tfidf__max_features": 20000,
+    "classifier__C": 10.0,
+    "classifier__class_weight": "balanced"
+  },
+  "best_character_parameters": {
+    "tfidf__ngram_range": [
+      3,
+      5
+    ],
+    "tfidf__min_df": 2,
+    "tfidf__max_features": 30000,
+    "classifier__C": 10.0,
+    "classifier__class_weight": "balanced"
+  },
+  "sklearn_version": "1.9.1",
+  "robustness_note": "Post-hoc sensitivity analyses; not independently held-out confirmatory results."
+}

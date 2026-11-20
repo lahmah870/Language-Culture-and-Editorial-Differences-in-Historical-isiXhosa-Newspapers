@@ -1,0 +1,17 @@
+{
+  "research_question": "How do linguistic and thematic patterns differ between Imvo Zabantsundu and Isigidimi sama-Xosa?",
+  "overlap_years": [
+    1884,
+    1885,
+    1887,
+    1888
+  ],
+  "window_size": 400,
+  "minimum_window_words": 200,
+  "identity_patterns": [
+    "\\bimvo\\s+zabantsundu\\b",
+    "\\bnative\\s+opinion\\b",
+    "\\bisigidimi\\s+sama[\\s-]*xosa\\b"
+  ],
+  "random_state": 42
+}

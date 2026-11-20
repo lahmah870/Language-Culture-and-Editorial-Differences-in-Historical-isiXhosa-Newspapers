@@ -1,0 +1,3 @@
+model,validation_pages,validation_errors,validation_macro_f1,best_C,largest_C_tried,best_C_at_grid_edge,configs_tied_for_best,tied_configuration_ids
+Word TF-IDF + LR,215,5,0.9761,10.0,10.0,True,4,"[3, 6, 9, 12]"
+Character TF-IDF + LR,215,2,0.9904,10.0,10.0,True,4,"[3, 6, 9, 12]"

@@ -1,0 +1,7 @@
+model,accuracy,balanced_accuracy,macro_f1,errors,condition
+Word TF-IDF + LR,1.0,1.0,1.0,0,Original text
+Character TF-IDF + LR,1.0,1.0,1.0,0,Original text
+Word TF-IDF + LR,1.0,1.0,1.0,0,Identity-masked text
+Character TF-IDF + LR,1.0,1.0,1.0,0,Identity-masked text
+Word TF-IDF + LR,1.0,1.0,1.0,0,Non-front pages
+Character TF-IDF + LR,1.0,1.0,1.0,0,Non-front pages
